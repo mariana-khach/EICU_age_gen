@@ -1,0 +1,5 @@
+,% at 89,% at 90,JS divergence,JS from ages 88–90,JS from all other ages,Wasserstein (years),Wasserstein from ages 87–90,Wasserstein from all other ages
+Normal fit,0.8,6.8,0.097,0.048 (49%),0.049,2.62,0.11 (4%),2.51
+"KDE (h = 0.48, chosen on validation)",3.7,0.9,0.039,0.006 (15%),0.033,0.61,0.02 (3%),0.59
+"KDE (h = 4.34, Silverman's rule)",1.1,4.0,0.065,0.031 (48%),0.033,0.69,0.04 (6%),0.65
+Resampled training ages,5.0,0.2,0.041,0.001 (3%),0.040,0.61,0.01 (1%),0.60

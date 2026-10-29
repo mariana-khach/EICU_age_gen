@@ -1,0 +1,5 @@
+,GAN − baseline (test score),"95% interval, low","95% interval, high",resamples where the GAN scores better (%),GAN better?
+Normal fit,-6.1718151969012975,-7.167164815518266,-5.176465578284329,100.0,yes
+"KDE (h = 4.34, Silverman's rule)",-1.1946803000617994,-1.705409264116364,-0.6839513360072347,100.0,yes
+Resampled training ages,0.07025573999413748,-0.49153256432451586,0.6320440443127908,40.8,no clear difference
+"KDE (h = 0.48, chosen on validation)",0.1220626506029685,-0.40440147023334316,0.6485267714392802,36.4,no clear difference
